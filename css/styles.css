@@ -38,10 +38,20 @@
 .container-fluid, #results {
   margin-top: 0;
   margin-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 #submit {
   margin-bottom: 20px;
+}
+
+#footer {
+  background-image:
+  url('../images/black_thread.jpg');
+  color: white;
+  font-size: 14px;
+
 }
 
 
