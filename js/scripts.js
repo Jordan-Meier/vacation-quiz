@@ -21,7 +21,8 @@ $(document).ready(function() {
       } else {
         $("#skye").show();
       }
+      event.preventDefault();
   });
 
-  event.preventDefault();
+
 });
