@@ -13,10 +13,10 @@ $(document).ready(function() {
       console.log(total);
 
       if (total >= 27) {
-        $("#buenos-aires").show();
-      } else if (total >= 21 && <=26) {
         $("#tokyo").show();
-      } else if (total >=15 && <=20) {
+      } else if (total >= 21 && total <27) {
+        $("#buenos-aires").show();
+      } else if (total >=15 && total <21) {
         $("#tuscany").show();
       } else {
         $("#skye").show();
