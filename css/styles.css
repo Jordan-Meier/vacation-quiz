@@ -1,3 +1,7 @@
 #skye, #tokyo, #tuscany, #buenos-aires {
   display: none;
 }
+
+.results img {
+  max-width: 100%;
+}
