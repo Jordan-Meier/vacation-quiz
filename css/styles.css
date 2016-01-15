@@ -5,3 +5,11 @@
 .results img {
   max-width: 100%;
 }
+
+#header h1{
+  font-family: Cabin;
+}
+
+#header p {
+  font-family: open sans;
+}
