@@ -11,7 +11,10 @@ This week's code review project is a webpage that suggests a vacation destinatio
 * Accurate media queries needed to refit the quiz form on sm and xs screen sizes. The form starts to wrap on itself on smaller screens, making it impossible to take the quiz on a mobile device.
 
 ###Contact Me
-For questions or suggestions, contact me at: jbirdmeier@gmail.com
+For questions or suggestions, feel free to contact me on GitHub!
+
+###Instalation Instructions
+You can clone this repo onto your desktop and open the index.html, or go to jordan-meier.github.io/vacation-quiz.
 
 ###Technologies Used:
 * HTML
